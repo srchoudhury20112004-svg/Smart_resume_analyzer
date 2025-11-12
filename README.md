@@ -1,4 +1,3 @@
-﻿# Smart_resume_analyzer
 
 # Smart Resume Analyzer
 
@@ -24,3 +23,4 @@ Open `notebooks/Smart_Resume_Analyzer.ipynb` in Google Colab to run demo noteboo
 
 ## License
 MIT
+
